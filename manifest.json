@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Each word snaps upright from a tilt, growing to size on a spring with a hard drop shadow underneath.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
